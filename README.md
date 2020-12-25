@@ -8,6 +8,9 @@ This end-to-end architecture consist of two parts. The first part is an off the 
 
 Finally we show results for egolane detection. The implementation proofs that this direct optimization is indeed possible and can achieve better results than the conventional segmentation approach. Moreover, this module can be applied to a broad range of tasks since the first stage of the architecture can be chosen freely. The extention to other domains such as object detection is considered as future work which also shows the effectiveness of this architecture.
 
+## Creator
+GestureGaming Application is created by [Sunny Tripathi](https://github.com/sxnnytripathi/).
+
 ## Requirements
 
 I just updated the code to the most recent version of Pytorch (=pytorch 1.1) with python 3.7.
@@ -20,5 +23,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+
 ## License
-Do What The Fuck You Want To Public License (WTFPL) is a free software license.
+Do What The Fuck You Want To Public License [(WTFPL)](http://www.wtfpl.net/about/) is a free software license.
